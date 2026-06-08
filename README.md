@@ -23,11 +23,12 @@ Statistical analysis and visualizations were used to better understand the datas
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+<img width="775" height="699" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/7b0dd01d-63ef-4c19-a0e6-ac62fc6c06a3" />
+
 
 ### Outlier Detection using KNN and LOF
+<img width="469" height="216" alt="outlier_analysis" src="https://github.com/user-attachments/assets/9f8dfa4c-5b26-4725-9cb5-7c38e7a7a8b0" />
 
-![Outlier Analysis](images/outlier_analysis.png)
 
 ## Machine Learning Models
 
@@ -53,8 +54,8 @@ GridSearchCV was applied to optimize model hyperparameters and improve predictiv
 | Tuned Random Forest       | 75%      |
 
 ### Model Comparison
+<img width="474" height="283" alt="model_comparison" src="https://github.com/user-attachments/assets/4b871d2f-6fed-4fe9-8910-266a8f45efe4" />
 
-![Model Comparison](images/model_comparison.png)
 
 ## Key Findings
 
